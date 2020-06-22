@@ -1,0 +1,250 @@
+[
+   { 
+      "RepresentanteID": "1001",
+      "RepresentanteNombres": "Jose Martin",
+      "RepresentanteApellidos": "Lopez Perez",
+      "TipoDocumento": "RUC",
+      "NumeroDocumento": "1",
+      "Compania": "La Favortia",
+      "email": "jmlp@gmail.com",
+      "Direccion": "Las gardenias",
+      "Telefono": "32432425",
+      "NumerodeHijos": "2",
+      "Hijos": [
+         {
+            "HijoNombre": "Pepito Lupe",
+            "HijoApellido": "Quiroz Perez",
+            "Seccion": "Primaria",
+            "Nivel": "2",
+            "Rubros": [
+               {
+                  "Tipo": "Pension",
+                  "Total": "10.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "1.000,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "10.000,00"
+               },
+               {
+                  "Tipo": "Matricula",
+                  "Total": "3.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "300,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "3.000,00"
+               },
+               {
+                  "Tipo": "Otros",
+                  "Total": "2.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "200,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "2.000,00"
+               },
+               {
+                  "Tipo": "Descuento",
+                  "Total": "1.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "100,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "1.000,00"
+               }
+            ]
+         },
+         {
+            "HijoNombre": "Arturo Perez",
+            "HijoApellido": "Pepito Perez",
+            "Seccion": "Primaria",
+            "Nivel": "2",
+            "Rubros": [
+               {
+                  "Tipo": "Pension",
+                  "Total": "10.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "1.000,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "10.000,00"
+               },
+               {
+                  "Tipo": "Matricula",
+                  "Total": "3.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "300,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "3.000,00"
+               },
+               {
+                  "Tipo": "Otros",
+                  "Total": "2.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "200,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "2.000,00"
+               },
+               {
+                  "Tipo": "Descuento",
+                  "Total": "1.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "100,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "1.000,00"
+               }
+            ]
+         },
+         {
+            "HijoNombre": "Tercero",
+            "HijoApellido": "Quiroz Perez",
+            "Seccion": "Primaria",
+            "Nivel": "2",
+            "Rubros": [
+               {
+                  "Tipo": "Pension",
+                  "Total": "10.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "1.000,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "10.000,00"
+               },
+               {
+                  "Tipo": "Matricula",
+                  "Total": "3.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "300,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "3.000,00"
+               },
+               {
+                  "Tipo": "Otros",
+                  "Total": "2.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "200,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "2.000,00"
+               },
+               {
+                  "Tipo": "Descuento",
+                  "Total": "1.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "100,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "1.000,00"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "RepresentanteID": "1002",
+      "RepresentanteNombres": "SegundoDos",
+      "RepresentanteApellidos": "Dolores Pan",
+      "TipoDocumento": "CI",
+      "NumeroDocumento": "0911255253",
+      "Compania": "La Favortia",
+      "email": "jmlp@gmail.com",
+      "Direccion": "Las gardenias",
+      "Telefono": "32432425",
+      "NumerodeHijos": "2",
+      "Hijos": [
+         {
+            "HijoNombre": "Pepito Perez",
+            "HijoApellido": "Pepito Perez",
+            "Seccion": "Primaria",
+            "Nivel": "2",
+            "Rubros": [
+               {
+                  "Tipo": "Pension",
+                  "Total": "10.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "1.000,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "10.000,00"
+               },
+               {
+                  "Tipo": "Matricula",
+                  "Total": "3.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "300,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "3.000,00"
+               },
+               {
+                  "Tipo": "Otros",
+                  "Total": "2.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "200,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "2.000,00"
+               },
+               {
+                  "Tipo": "Descuento",
+                  "Total": "1.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "100,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "1.000,00"
+               }
+            ]
+         },
+         {
+            "HijoNombre": "Arturo Perez",
+            "HijoApellido": "Pepito Perez",
+            "Seccion": "Primaria",
+            "Nivel": "2",
+            "Rubros": [
+               {
+                  "Tipo": "Pension",
+                  "Total": "10.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "1.000,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "10.000,00"
+               },
+               {
+                  "Tipo": "Matricula",
+                  "Total": "3.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "300,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "3.000,00"
+               },
+               {
+                  "Tipo": "Otros",
+                  "Total": "2.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "200,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "2.000,00"
+               },
+               {
+                  "Tipo": "Descuento",
+                  "Total": "1.000,00",
+                  "NumeroCuotasPendiente": "10",
+                  "ValorCuota": "100,00",
+                  "FechaUltimoPago": "14/06/2020",
+                  "FechaSaldo": "14/06/2020",
+                  "Saldo": "1.000,00"
+               }
+            ]
+         }
+      ]
+   }
+]
