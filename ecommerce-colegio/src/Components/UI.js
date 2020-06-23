@@ -7,24 +7,25 @@ import { Link } from 'react-router-dom';
 
 export default function UI() {
     return (
-        <div className="demo-big-content">
+        // <div style={{height: '300px', position: 'relative'}}>
+        <div>
             {/* <Layout style={{ background: 'url(http://www.getmdl.io/assets/demos/transparent.jpg) center / cover'}}> */}
-            <Layout>
+            <Layout transparent style={{ background: 'url(/backpic.jpg) center / cover'}}> 
                 <Header transparent title="Title" scroll>
                     <Navigation>
                     <Link to="/Inicio">Inicio</Link>
-                    <Link to="/LandingPage">Pagos</Link>
+                    {/* <Link to="/LandingPage">Pagos</Link> */}
                     <Link to="/Help">Ayuda</Link>
-                    <Link to="/PostData">Json Data</Link>
+                    {/* <Link to="/PostData">Json Data</Link> */}
                     <Link to="/MainPay">Main Pago</Link>
                     </Navigation>
                 </Header>
                 <Drawer title="Title">
                     <Navigation>
                     <Link to="/Inicio">Inicio</Link>
-                    <Link to="/LandingPage">Pagos</Link>
+                    {/* <Link to="/LandingPage">Pagos</Link> */}
                     <Link to="/Help">Ayuda</Link>
-                    <Link to="/PostData">Json Data</Link>
+                    {/* <Link to="/PostData">Json Data</Link> */}
                     <Link to="/MainPay">Main Pago</Link>
                     </Navigation>
                 </Drawer>
